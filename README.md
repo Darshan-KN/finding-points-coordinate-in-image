@@ -82,7 +82,7 @@ X	Y	Point Number
 72	28	15
 152	20	16
 141	15	17
-![image](https://github.com/user-attachments/assets/9ab55d2c-30ea-408f-89f6-42f39b199ebc)
+
 
 ```
 
