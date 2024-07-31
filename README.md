@@ -29,20 +29,7 @@ This project aims to detect specific points in images and extract their coordina
 - **Image Visualization**: Displays the image with detected points marked for verification.
 - **Flexible Input**: Supports both image links and local image files.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd your-repo-name
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## Usage
 
