@@ -40,17 +40,18 @@ from point_detection import detect_points
 image_url = "https://example.com/path/to/your/image.jpg"
 coordinates = detect_points(image_url)
 print("Detected coordinates:", coordinates)
+print("Detected point numbering:", point number)
 ```
 
 ### Specifying Coordinates
 
-If you already know the coordinates of certain points, you can specify them directly:
+If you already know the coordinates of certain points and its number, you can specify them directly:
 
 ```python
 from point_detection import plot_points
 
-known_coordinates = [(50, 100), (150, 200), (250, 300)]
-plot_points(image_url, known_coordinates)
+known_coordinates = [(50, 100,1), (150, 200,2), (250, 300,3)]
+plot_points(image_url, known_coordinates,numbering the points)
 ```
 
 ## Examples
