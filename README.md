@@ -13,14 +13,11 @@ This project aims to detect specific points in images and extract their coordina
 ## Table of Contents
 
 1. [Features](#features)
-2. [Installation](#installation)
-3. [Usage](#usage)
+2. [Usage](#usage)
    - [Detecting Points](#detecting-points)
    - [Specifying Coordinates](#specifying-coordinates)
-4. [Examples](#examples)
-5. [Contributing](#contributing)
-6. [License](#license)
-7. [Acknowledgments](#acknowledgments)
+3. [Examples](#examples)
+4. [Acknowledgments](#acknowledgments)
 
 ## Features
 
