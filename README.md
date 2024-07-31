@@ -90,18 +90,6 @@ plot_points(image_url, known_coordinates)
 
 ![Output Image](path/to/output_image_with_specified_points.jpg)
 
-## Contributing
-
-We welcome contributions from the community! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes and push them to your forked repository.
-4. Submit a pull request to the main repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
