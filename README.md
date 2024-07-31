@@ -69,23 +69,8 @@ plot_points(image_url, known_coordinates)
 
 **Output Image:**
 
-![Output Image](path/to/output_image.jpg)
+![BMJHSET2AP_points_plot_annotated](https://github.com/user-attachments/assets/0f762134-819f-4010-b246-096b637f32a6)
 
-### Example 2: Specifying Coordinates
-
-**Input Image:**
-
-![Input Image](path/to/input_image.jpg)
-
-**Specified Points:**
-
-```
-[(60, 110), (160, 210), (260, 310)]
-```
-
-**Output Image:**
-
-![Output Image](path/to/output_image_with_specified_points.jpg)
 
 
 ## Acknowledgments
