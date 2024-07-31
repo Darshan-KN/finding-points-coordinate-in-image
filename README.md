@@ -59,7 +59,7 @@ plot_points(image_url, known_coordinates)
 
 **Input Image:**
 
-![Input Image](![BMJHSET2AP_points_plot](https://github.com/user-attachments/assets/a9183eb4-b7d8-4c80-a011-fe3c97327f65))
+![BMJHSET2AP_points_plot](https://github.com/user-attachments/assets/a9183eb4-b7d8-4c80-a011-fe3c97327f65)
 
 **Detected Points:**
 
