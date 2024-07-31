@@ -64,7 +64,26 @@ plot_points(image_url, known_coordinates)
 **Detected Points:**
 
 ```
-[(50, 100), (150, 200), (250, 300)]
+X	Y	Point Number
+106	228	1
+91	222	2
+173	214	3
+186	209	4
+36	184	5
+29	171	6
+223	152	7
+229	139	8
+230	111	9
+16	105	10
+22	91	11
+216	71	12
+210	59	13
+60	35	14
+72	28	15
+152	20	16
+141	15	17
+![image](https://github.com/user-attachments/assets/9ab55d2c-30ea-408f-89f6-42f39b199ebc)
+
 ```
 
 **Output Image:**
